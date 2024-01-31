@@ -1,50 +1,24 @@
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MUIC-Modern-Software-Engineering_automated-clean-code&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MUIC-Modern-Software-Engineering_automated-clean-code)
+# Software Engineering Homework 3 Warmup
+CHECK OUT THESE BADGES!!!
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MUIC-Modern-Software-Engineering_automated-clean-code&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MUIC-Modern-Software-Engineering_automated-clean-code)
+EVERY CASE COVERED
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
 
-## Setup Instruction
-```
-poetry install
-```
+CODE SMELLS AMAZING
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
 
-## Run Test
-```
-poetry run pytest
-```
+DEBT PAID OFF [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
 
-## What to do next
+MAINTANABILITY WOULD BE S-TIER IF IT EXISTED [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
 
-### Install Pre-commit (Recommended)
-```
-poetry run pre-commit install
-```
-If you wish to edit pre-commit behavior see ```.pre-commit-config.yaml```.
-Normally it checks only the file you are committing. But if you wish to run it manually for all files do
-```
-poetry run pre-commit run --all
-```
+SECURE AS A SHIP'S LINE [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
 
-### Install Jupyter Notebook Kernel
-```
-poetry run python -m ipykernel install --user --name automated_clean_code
-```
+BUGS EXTERMINATED [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=bugs)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
 
-### Adjusting the Dependencies
-edit pyproject.toml or just do
-```
-poetry add numpy
-```
-or for dev dependencies
-```
-poetry add --dev numpy
-```
-See [python-poetry.org](https://python-poetry.org/)
+CODE GOT NO WEAKNESS [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
 
-### Change Pytest, Flake, Coverage Setting
-See ```tox.ini```
+WE KEEP IT ORIGINAL [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
 
-### Change how sonarqube behaves.
-See ```sonar-project.properties```
+RELIABLE AS THE AUTHOR [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
 
-### Get Pycharm to show the correct coverage
-Ironically in pycharm test configuration add `--no-cov` to `Additional Arguments` this turn off pytest-cov coverage and uses Pycharm's own pytest.
+QUALITY GUARANTEED [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mythicalbadger_software-engineering-hw3-warmup&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mythicalbadger_software-engineering-hw3-warmup)
