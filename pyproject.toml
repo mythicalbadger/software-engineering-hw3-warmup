@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "software-engineering-hw3-warmup"
+name = "leetcode"
 version = "0.1.0"
 description = ""
 authors = ["Piti Ongmongkolkul", "mythicalbadger"]
